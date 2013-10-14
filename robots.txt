@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mbernstein21.github.io/dapperblog/sitemap.xml 

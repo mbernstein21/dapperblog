@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://mbernstein21.github.io/dapperblog/blog/archives/</loc>
+        <lastmod>2013-09-13T00:29:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mbernstein21.github.io/dapperblog/</loc>
+        <lastmod>2013-09-13T00:29:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mbernstein21.github.io/dapperblog/robots.txt</loc>
+        <lastmod>2013-09-13T00:29:20-04:00</lastmod>
+    </url>
+</urlset>
